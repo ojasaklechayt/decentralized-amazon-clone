@@ -144,7 +144,7 @@ const [img,setImg] = useState('');
       </AppBar>
       <Stack sx={{m:10,}}>
         <Stack sx={{borderRadius:10}}>
-          <img src='https://m.media-amazon.com/images/W/WEBP_402378-T1/images/S/stores-image-uploads-eu-prod/a/AmazonStores/A21TJRUUN4KGV/07a999774ac95e5e2ff49e880c508767.w3000.h600._CR0%2C0%2C3000%2C600_SX1500_.jpg' style={{borderRadius:20,height:300}} />
+          <img src='https://images-eu.ssl-images-amazon.com/images/G/31/img23/WA/July/PD/XGL/header/comb/eng-mob.gif' style={{borderRadius:20,height:300}} />
         </Stack>
 
         <Typography sx={{fontWeight:'bold',mt:5,fontSize:25}}>Categories:</Typography>
